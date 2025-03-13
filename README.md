@@ -22,6 +22,8 @@ https://dacon.io/competitions/official/236291/overview/rules
   - LLaMA3-openko
     
 - Approaches
+  - Preprocessing & summarizing context with Sentence BERT and our own similarity algorithm
+  - Jaccard + Cosine Similarity(6:4 ratio)
   - Finetuning with QLoRA
   - Prefix Tuning
 
